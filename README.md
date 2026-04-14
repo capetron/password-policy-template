@@ -318,6 +318,19 @@ If your current policy requires forced 90-day rotation and complexity rules, fol
 
 ---
 
+## Professional Policy Development
+
+Need customized policies for your organization? **Petronella Technology Group** provides:
+
+- [Cybersecurity Policy Development](https://petronellatech.com/cybersecurity/) - Tailored security policies
+- [CMMC Compliance](https://petronellatech.com/compliance/cmmc-compliance-guide/) - Policy sets for CMMC Level 2
+- [HIPAA Compliance](https://petronellatech.com/compliance/hipaa-compliance/) - Healthcare-specific policies
+- [Risk Assessment Services](https://petronellatech.com/cybersecurity-assessment/) - Comprehensive risk evaluation
+
+**Petronella Technology Group** is CMMC-RP certified. [Contact us](https://petronellatech.com/contact-us/) or call (919) 348-4912.
+
+---
+
 ## About
 
 Created and maintained by [Petronella Technology Group](https://petronellatech.com) - a cybersecurity and managed IT services firm based in Raleigh, NC. With 23+ years of experience and zero client breaches, we help businesses secure their infrastructure and achieve compliance.
